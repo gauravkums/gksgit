@@ -1,2 +1,0 @@
-# gksgit
-Gaurav Gir
